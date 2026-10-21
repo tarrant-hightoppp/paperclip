@@ -12,7 +12,7 @@ ui/storybook-static/
 ui/storybook/generated/
 ui/storybook/.storybook/preview.tsx
 maps/generated/
-.env
+
 *.tsbuildinfo
 drizzle/meta/
 .vite/
